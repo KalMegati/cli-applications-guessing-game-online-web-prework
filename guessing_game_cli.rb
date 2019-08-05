@@ -5,5 +5,7 @@ def run_guessing_game
   shot = gets
   if shot == 'exit'
     puts "Goodbye!"
-  end
+  elsif shot != mark
+    
+  
 end
