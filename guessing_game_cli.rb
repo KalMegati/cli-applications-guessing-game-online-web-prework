@@ -6,7 +6,7 @@ def run_guessing_game
   if shot == 'exit'
     puts "Goodbye!"
   elsif shot != mark
-    puts "Sorry! The computer guessed #{mark}."
+    puts "Sorry! The computer guessed 6."
   elsif shot == mark
     "SLAM"
   else
