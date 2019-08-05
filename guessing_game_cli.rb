@@ -8,7 +8,7 @@ def run_guessing_game
   elsif shot != mark
     puts "Sorry! The computer guessed #{mark}."
   elsif shot == mark
-    
+    "SLAM"
   else
     puts "Come again?"
   
