@@ -11,5 +11,5 @@ def run_guessing_game
     "SLAM"
   else
     puts "Come again?"
-  
+  end
 end
